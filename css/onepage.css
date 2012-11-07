@@ -17,22 +17,6 @@ dd { width: 600px; float: right; margin-bottom: 20px; }
 dd.clear { float: none; margin: 0; height: 15px; }
 
 /* Custom CSS */
-
-#email{
-        background-image: url("../images/mail.png");
-        padding-top: 32px;
-        background-repeat: no-repeat;
-        width: 32px;
-        display: inline-block;
-}
-#github{
-        background-image: url("../images/github_blue_white_cat_32.png");
-        padding-top: 32px;
-        background-repeat: no-repeat;
-        width: 32px;
-        display: inline-block;
-        cursor: pointer;
-}
 .image-link{
         border: 0px;
 }
