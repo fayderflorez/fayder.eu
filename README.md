@@ -1,4 +1,4 @@
-fayder-florez.name
+http://fayder-florez.name
 ==================
 
-personal resume online
+this is my personal resume online =)
