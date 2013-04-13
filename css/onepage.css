@@ -24,14 +24,3 @@ dd.clear { float: none; margin: 0; height: 15px; }
         margin-right: 15px;
         border: 0px;
 }
-#skill-bootstrap {
-	display: block;
-	background-image: url(../images/logo-bootstrap2.png);
-	background-repeat: no-repeat;
-	border: 2px solid #666;
- 	border-radius: 40px;
-	-moz-border-radius: 40px;
-	-webkit-border-radius: 40px;
-	width: 180px;
-	height: 40px;
-}
