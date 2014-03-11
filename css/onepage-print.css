@@ -31,10 +31,8 @@ img {
 	margin-left: 0px;
 	margin-top: 15px;
 }
-@media print
-{    
-    .no-print, .no-print *
-    {
-        display: none !important;
-    }
+
+.no-print, .no-print *
+{
+    display: none !important;
 }
