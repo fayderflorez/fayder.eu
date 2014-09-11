@@ -605,6 +605,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .spider > span {
   background-color: #26466d;
 }
+.marine > span {
+  background-color: #0fbff2;
+}
 .nostripes > span > span, .nostripes > span:after {
   -webkit-animation: none;
   background-image: none;
