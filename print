@@ -131,10 +131,10 @@
                         Developing an Android app: a virtual betting game where you can simulate placing bets on real football matches and compare your results with your friends.
                     </li>
                     <li>
-                        Developed REST web app that the Android app uses to interact with the server database.
+                        Developed REST web app for the Android app to interact with the server database.
                     </li>
                     <li>
-                        Developed Python scripts to get all the information about leagues, teams, matches, odds and results from the web, and then persist this data in the server database.
+                        Developed Python scripts to get all the information about leagues, teams, matches and results from the web, calculate oods and then persist this data in the server database.
                     </li>
                 </ul>
             </dd>
