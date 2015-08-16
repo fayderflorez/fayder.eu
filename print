@@ -123,8 +123,18 @@
             <dt>Experience</dt>
             <dd>
                 <h2>
+                    <a href="https://monese.com">Monese</a>
+                    <span>Software Developer July 2015 - Present</span>
+                </h2>
+                <ul>
+                    <li>REST API for "back office" web application, for managament purposes. Secured with Spring Security and Google OAuth.</li>
+                    <li>Fraud Behaviour detection algorithms.</li>
+                </ul>
+            </dd>
+            <dd>
+                <h2>
                     <a href="#">Independent</a>
-                    <span>Android Developer Feb 2015 - Present</span>
+                    <span>Android Developer Feb 2015 - July 2015</span>
                 </h2>
                 <ul>
                     <li>
