@@ -96,22 +96,21 @@
                     <tbody>
                         <tr>
                             <td>Android Studio</td>
-                            <td>IntelliJ / Eclipse IDEA</td>
+                            <td>IntelliJ</td>
                             <td>Bootstrap</td>
                             <td>jQuery</td>
                             <td>BackboneJS</td>
                         </tr>
                         <tr>
                             <td>Spring</td>
-                            <td>Google Guice</td>
                             <td>RESTEasy</td>
                             <td>Hibernate</td>
                             <td>Maven / Gradle</td>
+                            <td>PostgreSQL</td>
                         </tr>
                         <tr>
-                            <td>PostgreSQL</td>
                             <td>Tomcat</td>
-                            <td>Git / Subversion</td>
+                            <td>Git</td>
                         </tr>
                     </tbody>
                 </table>
