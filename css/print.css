@@ -16,17 +16,6 @@ dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; 
 dd { width: 600px; float: right; margin-bottom: 20px; }
 dd.clear { float: none; margin: 0; height: 15px; }
 
-/* Custom CSS */
-img {
-	border: none;
-}
-.image-link{
-        border: 0px;
-}
-.skill-logo{
-        margin-right: 15px;
-        border: 0px;
-}
 .summary {
 	margin-left: 0px;
 	margin-top: 15px;
