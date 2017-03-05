@@ -1,2 +1,2 @@
-https://fayder.eu
+http://fayder.eu
 ==================
